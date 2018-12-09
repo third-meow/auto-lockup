@@ -11,7 +11,7 @@ lock your computer with a wave...
 #### Setup
 
 Connect VL53L0X to feather as shown in diagram
-![diagram](http://github/third-meow/auto-lockup/)
+![diagram](https://cdn-learn.adafruit.com/assets/assets/000/048/762/medium640/adafruit_products_m0_vl53l0x_bb.png?1534097917)
 
 Upload autoLockup sketch to feather with arduino IDE
 
