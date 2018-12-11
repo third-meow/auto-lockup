@@ -10,6 +10,13 @@ lock your computer with a wave...
 
 #### Setup
 
+Set keyboard shortcut, so that CTRL + m stops music
+
+How to set keyboard shortcuts
+* [Ubuntu](http://web.archive.org/web/20150912214739/https://help.ubuntu.com/stable/ubuntu-help/keyboard-shortcuts-set.html.en)
+* [OSX](http://web.archive.org/web/20160904002703/http://computers.tutsplus.com:80/tutorials/how-to-set-up-custom-keyboard-shortcuts-on-your-mac--mac-176)
+* [Windows 10](http://web.archive.org/web/20180102215344/https://www.laptopmag.com/articles/create-keyboard-shortcuts-windows-10)
+
 Connect VL53L0X to feather as shown in diagram
 ![diagram](https://cdn-learn.adafruit.com/assets/assets/000/048/762/medium640/adafruit_products_m0_vl53l0x_bb.png?1534097917)
 
