@@ -14,10 +14,20 @@ void loop() {
   lox.rangingTest(&measure, false);
 
   if (measure.RangeStatus != 4 && measure.RangeMilliMeter < 80) {
+		//stop music
+    Keyboard.press(KEY_LEFT_CTRL);
+    Keyboard.press('m');
+    delay(50);
+    Keyboard.releaseAll();
+			
+		delay(50);
+
+		//lock computer
     Keyboard.press(KEY_LEFT_GUI);
     Keyboard.press('l');
-    delay(200);
+    delay(50);
     Keyboard.releaseAll();
+
     //debounce
     delay(8000);
   }
